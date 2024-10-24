@@ -1,7 +1,11 @@
 /* Styles for Mobile Site */
 
 /* Header & Hero */
-
+ #hero {
+    background-color: #47A9E6; 
+    color: #5F6975;
+    text-align:center;
+ }
 /* Projects */
 
 /* Reviews */
@@ -11,6 +15,7 @@
 
 /* Media state for Desktop site */
 @media (min-width: 1000px) {
+
 
     /* Header & Hero */
 
